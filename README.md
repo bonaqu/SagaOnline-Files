@@ -1,6 +1,6 @@
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHPzNp30TQnfo_gl6lBdzAhrnSBR2KrFnjURosst2r2vOi7XVTw&s)
 # Saga Online Files
-Данный репозитории является частью проекта `NIKEA-SOFT` и использует лицензионное соглашение `MIT`.
+Данный репозитории является частью проекта `NIKEA-SOFT` и использует лицензионное соглашение `MIT`.  
 Пожалуйста, не стесняйтесь использовать раздел `Issue` если у Вас возникли проблемы.
 
 ---
@@ -9,6 +9,7 @@
 |    Перевод    |            Описание            |
 | ------------- | ------------------------------ |
 |  [`attribute`](https://github.com/NIKEA-SOFT/SagaOnline-Files/tree/master/localization/attribute.csv)  |   Имена типов оружия и свойств  |
+|  [`buff`](https://github.com/NIKEA-SOFT/SagaOnline-Files/tree/master/localization/buff.csv)  |   Имена бафов  |
 
 > **Важно:** 
 > При редактировании файлов обязательно учитывайте следующиее важные моменты:
