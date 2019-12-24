@@ -10,6 +10,7 @@
 | ------------- | ------------------------------ |
 |  [`attribute`](https://github.com/NIKEA-SOFT/SagaOnline-Files/tree/master/localization/attribute.csv)  |   Имена типов оружия и свойств  |
 |  [`buff`](https://github.com/NIKEA-SOFT/SagaOnline-Files/tree/master/localization/buff.csv)  |   Имена бафов  |
+|  [`err_msg`](https://github.com/NIKEA-SOFT/SagaOnline-Files/tree/master/localization/err_msg.csv)  |   Системные ошибки  |
 
 > **Важно:** 
 > При редактировании файлов обязательно учитывайте следующиее важные моменты:
