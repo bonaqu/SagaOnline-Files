@@ -8,13 +8,14 @@
 
 |    Перевод    |            Описание            |
 | ------------- | ------------------------------ |
-|  [`attribute`](https://github.com/NIKEA-SOFT/SagaOnline-Files/tree/master/localization/attribute.csv)  |   Имена типов оружия и свойств  ||  [`str_table`](https://github.com/NIKEA-SOFT/SagaOnline-Files/tree/master/localization/str_table.csv)  |   Настройки GUI, игры  |
+|  [`attribute`](https://github.com/NIKEA-SOFT/SagaOnline-Files/tree/master/localization/attribute.csv)  |   Имена типов оружия и свойств  |
+|  [`str_table`](https://github.com/NIKEA-SOFT/SagaOnline-Files/tree/master/localization/str_table.csv)  |   Настройки GUI, игры  |
 |  [`buff`](https://github.com/NIKEA-SOFT/SagaOnline-Files/tree/master/localization/buff.csv)  |   Имена бафов  |
 |  [`err_msg`](https://github.com/NIKEA-SOFT/SagaOnline-Files/tree/master/localization/err_msg.csv)  |   Системные ошибки  |
 
 > **Важно:** 
 > При редактировании файлов обязательно учитывайте следующиее важные моменты:
 > - Не добавлять и не удалять существующие запятые (они служат разделителями полей для csv форматов)
-> - Не использовать блокнот для редактирования, используйте github чтобы вытянуть репозиторий и редактировать его напрямую через  репозиторий, либо используйте Notepad++ и при открытии файла выбрать кодировку `UCS-2 LE Boom`
+> - Не использовать блокнот для редактирования, используйте github чтобы вытянуть репозиторий и редактировать его напрямую через  репозиторий, либо используйте редактор Atom и при открытии файла выбрать кодировку `UTF16-LE`
 
 ---
